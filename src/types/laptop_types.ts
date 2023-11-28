@@ -7,4 +7,5 @@ export type Laptop = {
     price: number;
     singlePageUrl: string;
     image_url: string;
+    desc: string;
 };
